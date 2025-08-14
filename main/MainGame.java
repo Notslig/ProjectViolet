@@ -1,8 +1,8 @@
-package Project_Escapeade.main;
+package ProjectViolet.main;
 
 import javax.swing.JFrame;
 
-//import Project_Escapeade.main.GamePanel;
+import ProjectViolet.main.GamePanel;
 
 public class MainGame {
     public static void main(String[] args) throws Exception {

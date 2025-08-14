@@ -1,4 +1,4 @@
-package Project_Escapeade.tile;
+package ProjectViolet.tile;
 
 
 import java.io.BufferedReader;
@@ -9,7 +9,8 @@ import javax.imageio.ImageIO;
 import java.awt.Graphics2D;
 //import java.awt.image.BufferedImage;
 
-import Project_Escapeade.main.GamePanel;
+// import Project_Escapeade.main.GamePanel;
+import ProjectViolet.main.GamePanel;
 //import Project_Escapeade.tile.Tiles;
 
 public class TileManager

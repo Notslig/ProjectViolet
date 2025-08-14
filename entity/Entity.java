@@ -1,4 +1,4 @@
-package Project_Escapeade.entity;
+package ProjectViolet.entity;
 
 
 import java.awt.image.BufferedImage;

@@ -1,12 +1,14 @@
-package Project_Escapeade.entity;
+package ProjectViolet.entity;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
-import Project_Escapeade.main.GamePanel;
-import Project_Escapeade.main.KeyHandler;
+// import ProjectViolet.main.GamePanel;
+import ProjectViolet.main.GamePanel;
+// Update the import path to match the actual location of KeyHandler
+import ProjectViolet.main.KeyHandler;
 
 public class Player extends Entity 
 {   

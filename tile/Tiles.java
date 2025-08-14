@@ -1,4 +1,4 @@
-package Project_Escapeade.tile;
+package ProjectViolet.tile;
 
 import java.awt.image.BufferedImage;
 public class Tiles {

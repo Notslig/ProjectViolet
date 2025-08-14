@@ -1,5 +1,6 @@
-package Project_Escapeade.main;
-import Project_Escapeade.tile.TileManager;
+package ProjectViolet.main;
+// import Project_Escapeade.tile.TileManager;
+import ProjectViolet.tile.TileManager;
 //import Project_Escapeade.main.KeyHandler;
 
 
@@ -13,7 +14,7 @@ import java.awt.Graphics2D;
 //import java.awt.event.KeyEvent;
 //import java.awt.event.KeyListener;
 
-import Project_Escapeade.entity.Player;
+import ProjectViolet.entity.Player;
 
 
 
